@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-evcharging-staging-165504-authRole",
+      "UnauthRoleArn": "arn:aws:iam::360976062247:role/amplify-evcharging-staging-165504-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::360976062247:role/amplify-evcharging-staging-165504-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-evcharging-staging-165504-deployment",
+      "UnauthRoleName": "amplify-evcharging-staging-165504-unauthRole",
+      "StackName": "amplify-evcharging-staging-165504",
+      "StackId": "arn:aws:cloudformation:ap-south-1:360976062247:stack/amplify-evcharging-staging-165504/679a95f0-78d7-11ee-9e83-02ebd758e1d6",
+      "AmplifyAppId": "d318r3aznzst6d"
+    },
+    "categories": {
+      "auth": {
+        "EVCharging": {}
+      }
+    }
+  }
+}
