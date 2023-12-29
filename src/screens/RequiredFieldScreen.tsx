@@ -53,7 +53,7 @@ const RequiredFieldScreen = ({ navigation }: RootStackScreenProps<'RequiredField
               <>
                 <View style={{ position: 'relative', width: '100%' }}>
                   <TextInput
-                    placeholder='Required Units'
+                    placeholder='Required Units' keyboardType='name-phone-pad'
                     style={[
                       {
                         fontSize: 16,
