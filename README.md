@@ -17,7 +17,7 @@ To run the EV Charging Mobile Application using Expo, follow these steps:
 2. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/CameronBlack19/EVCharging.git
+   git clone https://github.com/CameronBlack19/EV-Charging-Mobile-Application.git
    ```
 
 3. Navigate to the project directory:
